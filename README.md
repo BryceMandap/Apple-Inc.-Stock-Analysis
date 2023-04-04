@@ -11,6 +11,8 @@ Note: Some of the visuals aren't appearing in uploaded .pynb file, if this probl
 - Matplotlib
 
 ## Dataset
+- All stock Data was from Yahoo Finance
+- features inlcluded date, open, high, low, close, adj close, and volume
 
 ## Summary of Findings
 - **Stock Performance Overview**
