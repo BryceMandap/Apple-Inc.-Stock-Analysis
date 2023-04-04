@@ -2,6 +2,8 @@
 To further establish my data mining and exploratory analysis skills, I wanted to evaluate the Apple's stock (AAPL). The main objective of this project was to help potential investors understand the risk of investing in AAPL by analyzing its safety for long-term investments. To help determine this, I applied descriptive predictive analytics to different key perforamnce indactors and metrics in terms of performance.  
 These metrics can include stock rates (average, decline, and growth), return rates, sustainability, and competitive positioning. 
 
+Note: Some of the visuals aren't appearing in uploaded .pynb file, if this problem occurs you can see it if you download it onto your local machine. 
+
 ## Python Libraries & Packages 
 - Google Collab
 - Pandas, Pandas_datareader
