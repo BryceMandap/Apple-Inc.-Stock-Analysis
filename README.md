@@ -21,6 +21,20 @@ These metrics can include stock rates (average, decline, and growth), return rat
   - Average Daily Return for Sony: 0.00056%
       - Resulting in Apple having the largest return rate
 - **Apple Stock Prediction**
--
-- 
+    - Utilized Simple Linear Regression Model
+    - Mean Absolute Error: 0.21,  MSE: 0.18, RMSE: 0.42
+
 ## Key Visuals 
+![image](https://user-images.githubusercontent.com/129364286/229937557-6d94389c-c92e-4db4-a13c-941bc87f4324.png)
+
+![image](https://user-images.githubusercontent.com/129364286/229937600-00dd488c-aa70-46e1-8a64-9f5217742894.png)
+
+![image](https://user-images.githubusercontent.com/129364286/229937648-1aaabeb1-b3e6-46a8-bff0-36cc77618ff5.png)
+
+![image](https://user-images.githubusercontent.com/129364286/229937681-222aa8af-f1ea-4555-aec4-9a7206a4481b.png)
+
+![image](https://user-images.githubusercontent.com/129364286/229937693-ed3838e2-59ab-48b1-be26-0a90a85b11d7.png)
+
+
+
+
