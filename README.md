@@ -1,1 +1,11 @@
-# Apple-Inc.-Stock-Analysis
+# Apple-Inc. Stock Analysis
+
+## Purpose of Project
+
+## Python Libarires & Packages 
+
+## Dataset
+
+## Summary of Findings
+
+## Key Visuals 
